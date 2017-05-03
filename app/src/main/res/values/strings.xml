@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetailStore</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="electronics_category">Electronics</string>
+    <string name="furniture_category">Furniture</string>
+    <string name="item_name_row">Item</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="your_cart_is_empty">Your cart is empty</string>
+    <string name="current_price">The current cart price is ... </string>
+    <string name="category_item">Category item</string>
+    <string name="name_item">Name item</string>
+    <string name="price_item">Name item</string>
+    <string name="cost_item">20</string>
+
+
+
+
+
+</resources>

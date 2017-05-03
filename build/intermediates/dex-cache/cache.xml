@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adb_iot/Documents/myProjects/retailStore/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64a42c03d09e739efb4a72742f48bc578db82f54">
+        <dex dex="/Users/adb_iot/Documents/myProjects/retailStore/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21d0f0cdd8cd7422c8450e7a7fba7cfad5327bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adb_iot/Documents/myProjects/retailStore/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/adb_iot/Documents/myProjects/retailStore/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f2b9b6d79a19593be9b73bbf6039cf5d64b2323/classes.dex" />
+    </item>
+
+</items>
